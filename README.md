@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HadiNasution
 - 👀 I’m interested in Mobile Development (Cross-platform)
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Build an apps and Open Source Project
+- 💞️ I’m looking to collaborate on Mobile Apps Development and Open Source Project
 - 📫 How to reach me : hadinasution26@gmail.com
 
 <!---
